@@ -1,0 +1,10 @@
+name: Plugin-v1
+author: l3nnartt
+version: 1.0
+api-version: 1.16
+main: com.github.l3nnartt.plugin.Plugin
+
+commands:
+  heal:
+    usage: /heal
+    description: Heals a Player

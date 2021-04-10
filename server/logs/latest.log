@@ -1,0 +1,181 @@
+[19:42:30] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:42:30] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[19:42:31] [Worker-Main-5/INFO]: Loaded 7 recipes
+[19:42:32] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[19:42:32] [Server thread/INFO]: Loading properties
+[19:42:32] [Server thread/INFO]: This server is running Purpur version git-Purpur-1053 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[19:42:32] [Server thread/INFO]: Debug logging is disabled
+[19:42:32] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:42:32] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:42:32] [Server thread/INFO]: Default game type: SURVIVAL
+[19:42:32] [Server thread/INFO]: Generating keypair
+[19:42:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:42:32] [Server thread/INFO]: Using default channel type
+[19:42:32] [Server thread/INFO]: Tuinity: Using Java 11 compression from Velocity.
+[19:42:32] [Server thread/INFO]: Tuinity: Using Java cipher from Velocity.
+[19:42:33] [Server thread/INFO]: [Plugin-v1] Loading Plugin-v1 v1.0
+[19:42:33] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:42:33] [Server thread/INFO]: Preparing level "world"
+[19:42:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:42:33] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[19:42:33] [Server thread/INFO]: Preparing spawn area: 0%
+[19:42:33] [Server thread/INFO]: Time elapsed: 194 ms
+[19:42:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:42:33] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[19:42:33] [Server thread/INFO]: Time elapsed: 147 ms
+[19:42:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:42:33] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[19:42:33] [Server thread/INFO]: Time elapsed: 57 ms
+[19:42:33] [Server thread/INFO]: [Plugin-v1] Enabling Plugin-v1 v1.0
+[19:42:33] [Server thread/INFO]: [Plugin-v1] Plugin has been enabled
+[19:42:33] [Server thread/INFO]: Running delayed init tasks
+[19:42:33] [Server thread/INFO]: Done (1.418s)! For help, type "help"
+[19:42:33] [Server thread/INFO]: Timings Reset
+[19:42:47] [User Authenticator #1/INFO]: UUID of player L3nnart_ is f31bfa9e-2757-4805-835f-aa38018336e6
+[19:42:47] [Server thread/INFO]: L3nnart_ joined the game
+[19:42:47] [Server thread/INFO]: L3nnart_[/127.0.0.1:61149] logged in with entity id 176 at ([world]-231.5, 64.0, -263.5)
+[19:42:54] [Server thread/INFO]: L3nnart_ issued server command: /pl
+[19:43:37] [Server thread/INFO]: L3nnart_ lost connection: Disconnected
+[19:43:37] [Server thread/INFO]: L3nnart_ left the game
+[19:43:46] [User Authenticator #1/INFO]: UUID of player L3nnart_ is f31bfa9e-2757-4805-835f-aa38018336e6
+[19:43:46] [Server thread/INFO]: L3nnart_ joined the game
+[19:43:46] [Server thread/INFO]: L3nnart_[/90.153.97.113:61187] logged in with entity id 563 at ([world]-240.76047017126987, 69.0, -205.01453650042055)
+[19:46:53] [Server thread/INFO]: Incorrect argument for command
+[19:46:53] [Server thread/INFO]: gamemode 1<--[HERE]
+[19:46:57] [Server thread/INFO]: A player is required to run this command here
+[19:47:04] [Server thread/INFO]: L3nnart_ drowned
+[19:47:06] [Server thread/INFO]: Incorrect argument for command
+[19:47:06] [Server thread/INFO]: gamemode Mr_Milchmann_LP creative<--[HERE]
+[19:47:18] [Server thread/INFO]: No player was found
+[19:47:23] [Server thread/INFO]: No player was found
+[19:47:42] [Server thread/INFO]: Made Mr a server operator
+[19:47:48] [Server thread/INFO]: That player does not exist
+[19:48:00] [Server thread/INFO]: Made L3nnart_ a server operator
+[19:48:19] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[19:48:27] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[19:48:27] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[19:48:27] [Server thread/INFO]: Debug logging is disabled
+[19:48:27] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:48:27] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:48:27] [Server thread/INFO]: [Plugin-v1] Disabling Plugin-v1 v1.0
+[19:48:27] [Server thread/INFO]: [Plugin-v1] Plugin wurde deaktiviert
+[19:48:27] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[19:48:28] [Server thread/INFO]: Loaded 7 recipes
+[19:48:28] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[19:48:28] [Server thread/INFO]: Loaded 7 recipes
+[19:48:29] [Server thread/INFO]: [Plugin-v1] Loading Plugin-v1 v1.0
+[19:48:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:48:29] [Server thread/INFO]: [Plugin-v1] Enabling Plugin-v1 v1.0
+[19:48:29] [Server thread/INFO]: [Plugin-v1] Plugin has been enabled
+[19:48:29] [Server thread/INFO]: CONSOLE: Reload complete.
+[19:48:29] [Server thread/INFO]: Timings Reset
+[19:48:39] [Server thread/INFO]: L3nnart_ issued server command: /gamemode creative
+[19:48:39] [Server thread/INFO]: [L3nnart_: Set own game mode to Creative Mode]
+[20:11:47] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[20:12:00] [Server thread/INFO]: Villager EntityVillager['Villager'/4406, uuid='8a695168-24f0-41a2-a88e-6174f27ff4b7', l='ServerLevel[world]', x=-479.30, y=72.00, z=-806.63, cx=-30, cz=-51, tl=4830, v=true, d=false] died, message: 'Villager hit the ground too hard whilst trying to escape Zombie'
+[20:12:33] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[20:12:36] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[20:12:36] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[20:12:36] [Server thread/INFO]: Debug logging is disabled
+[20:12:36] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:12:36] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:12:37] [Server thread/INFO]: [Plugin-v1] Disabling Plugin-v1 v1.0
+[20:12:37] [Server thread/INFO]: [Plugin-v1] Plugin wurde deaktiviert
+[20:12:37] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[20:12:37] [Server thread/INFO]: Loaded 7 recipes
+[20:12:37] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[20:12:38] [Server thread/INFO]: Loaded 7 recipes
+[20:12:38] [Server thread/INFO]: [Plugin-v1] Loading Plugin-v1 v1.0
+[20:12:38] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:12:38] [Server thread/INFO]: [Plugin-v1] Enabling Plugin-v1 v1.0
+[20:12:38] [Server thread/INFO]: [Plugin-v1] Plugin has been enabled
+[20:12:38] [Server thread/INFO]: CONSOLE: Reload complete.
+[20:12:38] [Server thread/INFO]: Timings Reset
+[20:13:30] [Server thread/INFO]: Villager EntityVillager['Nitwit'/4413, uuid='95721d37-ebea-416a-9cbc-a3cb3850a894', l='ServerLevel[world]', x=-500.71, y=74.00, z=-783.09, cx=-32, cz=-49, tl=6635, v=true, d=false] died, message: 'Nitwit was slain by Zombie Villager'
+[20:13:47] [Server thread/INFO]: L3nnart_ has reached the goal [Hired Help]
+[20:16:36] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[20:16:37] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[20:16:37] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[20:16:37] [Server thread/INFO]: Debug logging is disabled
+[20:16:37] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:16:37] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:16:37] [Server thread/INFO]: [Plugin-v1] Disabling Plugin-v1 v1.0
+[20:16:37] [Server thread/INFO]: [Plugin-v1] Plugin wurde deaktiviert
+[20:16:37] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[20:16:37] [Server thread/INFO]: Loaded 7 recipes
+[20:16:38] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[20:16:38] [Server thread/INFO]: Loaded 7 recipes
+[20:16:38] [Server thread/INFO]: [Plugin-v1] Loading Plugin-v1 v1.0
+[20:16:38] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:16:38] [Server thread/INFO]: [Plugin-v1] Enabling Plugin-v1 v1.0
+[20:16:38] [Server thread/INFO]: [Plugin-v1] Plugin has been enabled
+[20:16:38] [Server thread/INFO]: CONSOLE: Reload complete.
+[20:16:38] [Server thread/INFO]: Timings Reset
+[20:16:42] [Server thread/INFO]: L3nnart_ issued server command: /heal
+[20:16:50] [Server thread/INFO]: L3nnart_ issued server command: /gamemode survival
+[20:16:50] [Server thread/INFO]: [L3nnart_: Set own game mode to Survival Mode]
+[20:16:53] [Server thread/INFO]: L3nnart_ issued server command: /heal
+[20:17:15] [Server thread/INFO]: L3nnart_ issued server command: /heal
+[20:17:47] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[20:17:48] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[20:17:48] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[20:17:48] [Server thread/INFO]: Debug logging is disabled
+[20:17:48] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:17:48] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:17:48] [Server thread/INFO]: [Plugin-v1] Disabling Plugin-v1 v1.0
+[20:17:48] [Server thread/INFO]: [Plugin-v1] Plugin wurde deaktiviert
+[20:17:48] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[20:17:48] [Server thread/INFO]: Loaded 7 recipes
+[20:17:49] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[20:17:49] [Server thread/INFO]: Loaded 7 recipes
+[20:17:49] [Server thread/INFO]: [Plugin-v1] Loading Plugin-v1 v1.0
+[20:17:49] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:17:49] [Server thread/INFO]: [Plugin-v1] Enabling Plugin-v1 v1.0
+[20:17:49] [Server thread/INFO]: [Plugin-v1] Plugin has been enabled
+[20:17:49] [Server thread/INFO]: CONSOLE: Reload complete.
+[20:17:49] [Server thread/INFO]: Timings Reset
+[20:17:52] [Server thread/INFO]: L3nnart_ issued server command: /heal o
+[20:17:55] [Server thread/INFO]: L3nnart_ issued server command: /heal e
+[20:17:57] [Server thread/INFO]: L3nnart_ issued server command: /heal
+[20:18:17] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[20:18:18] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[20:18:18] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[20:18:18] [Server thread/INFO]: Debug logging is disabled
+[20:18:18] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:18:18] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:18:18] [Server thread/INFO]: [Plugin-v1] Disabling Plugin-v1 v1.0
+[20:18:18] [Server thread/INFO]: [Plugin-v1] Plugin wurde deaktiviert
+[20:18:18] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[20:18:18] [Server thread/INFO]: Loaded 7 recipes
+[20:18:19] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[20:18:19] [Server thread/INFO]: Loaded 7 recipes
+[20:18:19] [Server thread/INFO]: [Plugin-v1] Loading Plugin-v1 v1.0
+[20:18:19] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:18:19] [Server thread/INFO]: [Plugin-v1] Enabling Plugin-v1 v1.0
+[20:18:19] [Server thread/INFO]: [Plugin-v1] Plugin has been enabled
+[20:18:19] [Server thread/INFO]: CONSOLE: Reload complete.
+[20:18:19] [Server thread/INFO]: Timings Reset
+[20:18:23] [Server thread/INFO]: L3nnart_ issued server command: /heal
+[20:18:27] [Server thread/INFO]: L3nnart_ issued server command: /heal
+[20:18:28] [Server thread/INFO]: L3nnart_ issued server command: /heal
+[20:18:34] [Server thread/INFO]: L3nnart_ issued server command: /heal
+[20:19:21] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[20:19:22] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[20:19:22] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[20:19:22] [Server thread/INFO]: Debug logging is disabled
+[20:19:22] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:19:22] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:19:22] [Server thread/INFO]: [Plugin-v1] Disabling Plugin-v1 v1.0
+[20:19:22] [Server thread/INFO]: [Plugin-v1] Plugin wurde deaktiviert
+[20:19:22] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[20:19:22] [Server thread/INFO]: Loaded 7 recipes
+[20:19:23] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[20:19:23] [Server thread/INFO]: Loaded 7 recipes
+[20:19:24] [Server thread/INFO]: [Plugin-v1] Loading Plugin-v1 v1.0
+[20:19:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:19:24] [Server thread/INFO]: [Plugin-v1] Enabling Plugin-v1 v1.0
+[20:19:24] [Server thread/INFO]: [Plugin-v1] Plugin has been enabled
+[20:19:24] [Server thread/INFO]: CONSOLE: Reload complete.
+[20:19:24] [Server thread/INFO]: Timings Reset
+[20:19:26] [Server thread/INFO]: L3nnart_ issued server command: /heal
+[20:19:29] [Server thread/INFO]: L3nnart_ issued server command: /heal
