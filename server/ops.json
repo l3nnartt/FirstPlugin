@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "434daaf0-0356-4997-9f75-e58ea511c9b7",
+    "name": "BinHaltCuube",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "84f4510f-aa5e-49b8-a7bc-e4e7dd7a6598",
     "name": "Mr",
     "level": 4,

@@ -1,181 +1,494 @@
-[19:42:30] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:42:30] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[19:42:31] [Worker-Main-5/INFO]: Loaded 7 recipes
-[19:42:32] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[19:42:32] [Server thread/INFO]: Loading properties
-[19:42:32] [Server thread/INFO]: This server is running Purpur version git-Purpur-1053 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
-[19:42:32] [Server thread/INFO]: Debug logging is disabled
-[19:42:32] [Server thread/INFO]: Using 4 threads for Netty based IO
-[19:42:32] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[19:42:32] [Server thread/INFO]: Default game type: SURVIVAL
-[19:42:32] [Server thread/INFO]: Generating keypair
-[19:42:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:42:32] [Server thread/INFO]: Using default channel type
-[19:42:32] [Server thread/INFO]: Tuinity: Using Java 11 compression from Velocity.
-[19:42:32] [Server thread/INFO]: Tuinity: Using Java cipher from Velocity.
-[19:42:33] [Server thread/INFO]: [Plugin-v1] Loading Plugin-v1 v1.0
-[19:42:33] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[19:42:33] [Server thread/INFO]: Preparing level "world"
-[19:42:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:42:33] [Server thread/INFO]: Loaded 0 spawn chunks for world world
-[19:42:33] [Server thread/INFO]: Preparing spawn area: 0%
-[19:42:33] [Server thread/INFO]: Time elapsed: 194 ms
-[19:42:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[19:42:33] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
-[19:42:33] [Server thread/INFO]: Time elapsed: 147 ms
-[19:42:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[19:42:33] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
-[19:42:33] [Server thread/INFO]: Time elapsed: 57 ms
-[19:42:33] [Server thread/INFO]: [Plugin-v1] Enabling Plugin-v1 v1.0
-[19:42:33] [Server thread/INFO]: [Plugin-v1] Plugin has been enabled
-[19:42:33] [Server thread/INFO]: Running delayed init tasks
-[19:42:33] [Server thread/INFO]: Done (1.418s)! For help, type "help"
-[19:42:33] [Server thread/INFO]: Timings Reset
-[19:42:47] [User Authenticator #1/INFO]: UUID of player L3nnart_ is f31bfa9e-2757-4805-835f-aa38018336e6
-[19:42:47] [Server thread/INFO]: L3nnart_ joined the game
-[19:42:47] [Server thread/INFO]: L3nnart_[/127.0.0.1:61149] logged in with entity id 176 at ([world]-231.5, 64.0, -263.5)
-[19:42:54] [Server thread/INFO]: L3nnart_ issued server command: /pl
-[19:43:37] [Server thread/INFO]: L3nnart_ lost connection: Disconnected
-[19:43:37] [Server thread/INFO]: L3nnart_ left the game
-[19:43:46] [User Authenticator #1/INFO]: UUID of player L3nnart_ is f31bfa9e-2757-4805-835f-aa38018336e6
-[19:43:46] [Server thread/INFO]: L3nnart_ joined the game
-[19:43:46] [Server thread/INFO]: L3nnart_[/90.153.97.113:61187] logged in with entity id 563 at ([world]-240.76047017126987, 69.0, -205.01453650042055)
-[19:46:53] [Server thread/INFO]: Incorrect argument for command
-[19:46:53] [Server thread/INFO]: gamemode 1<--[HERE]
-[19:46:57] [Server thread/INFO]: A player is required to run this command here
-[19:47:04] [Server thread/INFO]: L3nnart_ drowned
-[19:47:06] [Server thread/INFO]: Incorrect argument for command
-[19:47:06] [Server thread/INFO]: gamemode Mr_Milchmann_LP creative<--[HERE]
-[19:47:18] [Server thread/INFO]: No player was found
-[19:47:23] [Server thread/INFO]: No player was found
-[19:47:42] [Server thread/INFO]: Made Mr a server operator
-[19:47:48] [Server thread/INFO]: That player does not exist
-[19:48:00] [Server thread/INFO]: Made L3nnart_ a server operator
-[19:48:19] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
-[19:48:27] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[19:48:27] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[19:48:27] [Server thread/INFO]: Debug logging is disabled
-[19:48:27] [Server thread/INFO]: Using 4 threads for Netty based IO
-[19:48:27] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[19:48:27] [Server thread/INFO]: [Plugin-v1] Disabling Plugin-v1 v1.0
-[19:48:27] [Server thread/INFO]: [Plugin-v1] Plugin wurde deaktiviert
-[19:48:27] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[19:48:28] [Server thread/INFO]: Loaded 7 recipes
-[19:48:28] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[19:48:28] [Server thread/INFO]: Loaded 7 recipes
-[19:48:29] [Server thread/INFO]: [Plugin-v1] Loading Plugin-v1 v1.0
-[19:48:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[19:48:29] [Server thread/INFO]: [Plugin-v1] Enabling Plugin-v1 v1.0
-[19:48:29] [Server thread/INFO]: [Plugin-v1] Plugin has been enabled
-[19:48:29] [Server thread/INFO]: CONSOLE: Reload complete.
-[19:48:29] [Server thread/INFO]: Timings Reset
-[19:48:39] [Server thread/INFO]: L3nnart_ issued server command: /gamemode creative
-[19:48:39] [Server thread/INFO]: [L3nnart_: Set own game mode to Creative Mode]
-[20:11:47] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
-[20:12:00] [Server thread/INFO]: Villager EntityVillager['Villager'/4406, uuid='8a695168-24f0-41a2-a88e-6174f27ff4b7', l='ServerLevel[world]', x=-479.30, y=72.00, z=-806.63, cx=-30, cz=-51, tl=4830, v=true, d=false] died, message: 'Villager hit the ground too hard whilst trying to escape Zombie'
-[20:12:33] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
-[20:12:36] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[20:12:36] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[20:12:36] [Server thread/INFO]: Debug logging is disabled
-[20:12:36] [Server thread/INFO]: Using 4 threads for Netty based IO
-[20:12:36] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[20:12:37] [Server thread/INFO]: [Plugin-v1] Disabling Plugin-v1 v1.0
-[20:12:37] [Server thread/INFO]: [Plugin-v1] Plugin wurde deaktiviert
-[20:12:37] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[20:12:37] [Server thread/INFO]: Loaded 7 recipes
-[20:12:37] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[20:12:38] [Server thread/INFO]: Loaded 7 recipes
-[20:12:38] [Server thread/INFO]: [Plugin-v1] Loading Plugin-v1 v1.0
-[20:12:38] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[20:12:38] [Server thread/INFO]: [Plugin-v1] Enabling Plugin-v1 v1.0
-[20:12:38] [Server thread/INFO]: [Plugin-v1] Plugin has been enabled
-[20:12:38] [Server thread/INFO]: CONSOLE: Reload complete.
-[20:12:38] [Server thread/INFO]: Timings Reset
-[20:13:30] [Server thread/INFO]: Villager EntityVillager['Nitwit'/4413, uuid='95721d37-ebea-416a-9cbc-a3cb3850a894', l='ServerLevel[world]', x=-500.71, y=74.00, z=-783.09, cx=-32, cz=-49, tl=6635, v=true, d=false] died, message: 'Nitwit was slain by Zombie Villager'
-[20:13:47] [Server thread/INFO]: L3nnart_ has reached the goal [Hired Help]
-[20:16:36] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
-[20:16:37] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[20:16:37] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[20:16:37] [Server thread/INFO]: Debug logging is disabled
-[20:16:37] [Server thread/INFO]: Using 4 threads for Netty based IO
-[20:16:37] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[20:16:37] [Server thread/INFO]: [Plugin-v1] Disabling Plugin-v1 v1.0
-[20:16:37] [Server thread/INFO]: [Plugin-v1] Plugin wurde deaktiviert
-[20:16:37] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[20:16:37] [Server thread/INFO]: Loaded 7 recipes
-[20:16:38] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[20:16:38] [Server thread/INFO]: Loaded 7 recipes
-[20:16:38] [Server thread/INFO]: [Plugin-v1] Loading Plugin-v1 v1.0
-[20:16:38] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[20:16:38] [Server thread/INFO]: [Plugin-v1] Enabling Plugin-v1 v1.0
-[20:16:38] [Server thread/INFO]: [Plugin-v1] Plugin has been enabled
-[20:16:38] [Server thread/INFO]: CONSOLE: Reload complete.
-[20:16:38] [Server thread/INFO]: Timings Reset
-[20:16:42] [Server thread/INFO]: L3nnart_ issued server command: /heal
-[20:16:50] [Server thread/INFO]: L3nnart_ issued server command: /gamemode survival
-[20:16:50] [Server thread/INFO]: [L3nnart_: Set own game mode to Survival Mode]
-[20:16:53] [Server thread/INFO]: L3nnart_ issued server command: /heal
-[20:17:15] [Server thread/INFO]: L3nnart_ issued server command: /heal
-[20:17:47] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
-[20:17:48] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[20:17:48] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[20:17:48] [Server thread/INFO]: Debug logging is disabled
-[20:17:48] [Server thread/INFO]: Using 4 threads for Netty based IO
-[20:17:48] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[20:17:48] [Server thread/INFO]: [Plugin-v1] Disabling Plugin-v1 v1.0
-[20:17:48] [Server thread/INFO]: [Plugin-v1] Plugin wurde deaktiviert
-[20:17:48] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[20:17:48] [Server thread/INFO]: Loaded 7 recipes
-[20:17:49] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[20:17:49] [Server thread/INFO]: Loaded 7 recipes
-[20:17:49] [Server thread/INFO]: [Plugin-v1] Loading Plugin-v1 v1.0
-[20:17:49] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[20:17:49] [Server thread/INFO]: [Plugin-v1] Enabling Plugin-v1 v1.0
-[20:17:49] [Server thread/INFO]: [Plugin-v1] Plugin has been enabled
-[20:17:49] [Server thread/INFO]: CONSOLE: Reload complete.
-[20:17:49] [Server thread/INFO]: Timings Reset
-[20:17:52] [Server thread/INFO]: L3nnart_ issued server command: /heal o
-[20:17:55] [Server thread/INFO]: L3nnart_ issued server command: /heal e
-[20:17:57] [Server thread/INFO]: L3nnart_ issued server command: /heal
-[20:18:17] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
-[20:18:18] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[20:18:18] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[20:18:18] [Server thread/INFO]: Debug logging is disabled
-[20:18:18] [Server thread/INFO]: Using 4 threads for Netty based IO
-[20:18:18] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[20:18:18] [Server thread/INFO]: [Plugin-v1] Disabling Plugin-v1 v1.0
-[20:18:18] [Server thread/INFO]: [Plugin-v1] Plugin wurde deaktiviert
-[20:18:18] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[20:18:18] [Server thread/INFO]: Loaded 7 recipes
-[20:18:19] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[20:18:19] [Server thread/INFO]: Loaded 7 recipes
-[20:18:19] [Server thread/INFO]: [Plugin-v1] Loading Plugin-v1 v1.0
-[20:18:19] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[20:18:19] [Server thread/INFO]: [Plugin-v1] Enabling Plugin-v1 v1.0
-[20:18:19] [Server thread/INFO]: [Plugin-v1] Plugin has been enabled
-[20:18:19] [Server thread/INFO]: CONSOLE: Reload complete.
-[20:18:19] [Server thread/INFO]: Timings Reset
-[20:18:23] [Server thread/INFO]: L3nnart_ issued server command: /heal
-[20:18:27] [Server thread/INFO]: L3nnart_ issued server command: /heal
-[20:18:28] [Server thread/INFO]: L3nnart_ issued server command: /heal
-[20:18:34] [Server thread/INFO]: L3nnart_ issued server command: /heal
-[20:19:21] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
-[20:19:22] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[20:19:22] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[20:19:22] [Server thread/INFO]: Debug logging is disabled
-[20:19:22] [Server thread/INFO]: Using 4 threads for Netty based IO
-[20:19:22] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[20:19:22] [Server thread/INFO]: [Plugin-v1] Disabling Plugin-v1 v1.0
-[20:19:22] [Server thread/INFO]: [Plugin-v1] Plugin wurde deaktiviert
-[20:19:22] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[20:19:22] [Server thread/INFO]: Loaded 7 recipes
-[20:19:23] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[20:19:23] [Server thread/INFO]: Loaded 7 recipes
-[20:19:24] [Server thread/INFO]: [Plugin-v1] Loading Plugin-v1 v1.0
-[20:19:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[20:19:24] [Server thread/INFO]: [Plugin-v1] Enabling Plugin-v1 v1.0
-[20:19:24] [Server thread/INFO]: [Plugin-v1] Plugin has been enabled
-[20:19:24] [Server thread/INFO]: CONSOLE: Reload complete.
-[20:19:24] [Server thread/INFO]: Timings Reset
-[20:19:26] [Server thread/INFO]: L3nnart_ issued server command: /heal
-[20:19:29] [Server thread/INFO]: L3nnart_ issued server command: /heal
+[21:13:12] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:13:13] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[21:13:13] [Worker-Main-5/INFO]: Loaded 7 recipes
+[21:13:14] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[21:13:14] [Server thread/INFO]: Loading properties
+[21:13:15] [Server thread/INFO]: This server is running Purpur version git-Purpur-1053 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[21:13:15] [Server thread/INFO]: Debug logging is disabled
+[21:13:15] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:13:15] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:13:15] [Server thread/INFO]: Default game type: SURVIVAL
+[21:13:15] [Server thread/INFO]: Generating keypair
+[21:13:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:13:15] [Server thread/INFO]: Using default channel type
+[21:13:15] [Server thread/INFO]: Tuinity: Using Java 11 compression from Velocity.
+[21:13:15] [Server thread/INFO]: Tuinity: Using Java cipher from Velocity.
+[21:13:15] [Server thread/INFO]: [Plugin-v1] Loading Plugin-v1 v1.0
+[21:13:15] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:13:15] [Server thread/INFO]: Preparing level "world"
+[21:13:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:13:16] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[21:13:16] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:16] [Server thread/INFO]: Time elapsed: 290 ms
+[21:13:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:13:16] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[21:13:16] [Server thread/INFO]: Time elapsed: 137 ms
+[21:13:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:13:16] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[21:13:16] [Server thread/INFO]: Time elapsed: 286 ms
+[21:13:16] [Server thread/INFO]: [Plugin-v1] Enabling Plugin-v1 v1.0
+[21:13:16] [Server thread/INFO]: [Plugin-v1] Plugin has been enabled
+[21:13:16] [Server thread/INFO]: Running delayed init tasks
+[21:13:16] [Server thread/INFO]: Done (2.024s)! For help, type "help"
+[21:13:16] [Server thread/INFO]: Timings Reset
+[21:13:34] [User Authenticator #1/INFO]: UUID of player BinHaltCuube is 434daaf0-0356-4997-9f75-e58ea511c9b7
+[21:13:34] [Server thread/INFO]: BinHaltCuube joined the game
+[21:13:34] [Server thread/INFO]: BinHaltCuube[/87.123.193.210:21528] logged in with entity id 152 at ([world]-243.5, 69.0, -244.5)
+[21:13:54] [User Authenticator #1/INFO]: UUID of player L3nnart_ is f31bfa9e-2757-4805-835f-aa38018336e6
+[21:13:54] [Server thread/INFO]: L3nnart_ joined the game
+[21:13:54] [Server thread/INFO]: L3nnart_[/90.153.97.113:50756] logged in with entity id 337 at ([world]-430.4349919022219, 71.0, -797.3000000119209)
+[21:14:30] [Server thread/INFO]: L3nnart_ issued server command: /heal
+[21:15:13] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[21:15:13] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[21:15:13] [Server thread/INFO]: Debug logging is disabled
+[21:15:13] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:15:13] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:15:13] [Server thread/INFO]: [Plugin-v1] Disabling Plugin-v1 v1.0
+[21:15:13] [Server thread/INFO]: [Plugin-v1] Plugin wurde deaktiviert
+[21:15:13] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[21:15:13] [Server thread/INFO]: Loaded 7 recipes
+[21:15:14] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[21:15:14] [Server thread/INFO]: Loaded 7 recipes
+[21:15:15] [Server thread/INFO]: [Plugin-v1] Loading Plugin-v1 v1.0
+[21:15:15] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:15:15] [Server thread/INFO]: [Plugin-v1] Enabling Plugin-v1 v1.0
+[21:15:15] [Server thread/INFO]: [Plugin-v1] Plugin has been enabled
+[21:15:15] [Server thread/INFO]: CONSOLE: Reload complete.
+[21:15:15] [Server thread/INFO]: Timings Reset
+[21:15:29] [Server thread/INFO]: L3nnart_ issued server command: /heal
+[21:15:35] [Server thread/INFO]: BinHaltCuube issued server command: /heal
+[21:15:37] [Server thread/INFO]: L3nnart_ issued server command: /op BinHaltCuube
+[21:15:37] [Server thread/INFO]: [L3nnart_: Made BinHaltCuube a server operator]
+[21:15:41] [Server thread/INFO]: BinHaltCuube issued server command: /heal
+[21:15:47] [Server thread/INFO]: L3nnart_ issued server command: /gamemode creative
+[21:15:47] [Server thread/INFO]: [L3nnart_: Set own game mode to Creative Mode]
+[21:18:25] [Server thread/INFO]: BinHaltCuube issued server command: /gamemode creative
+[21:18:25] [Server thread/INFO]: [BinHaltCuube: Set own game mode to Creative Mode]
+[21:18:41] [Server thread/INFO]: L3nnart_ issued server command: /gamemode survival
+[21:18:41] [Server thread/INFO]: [L3nnart_: Set own game mode to Survival Mode]
+[21:19:46] [Server thread/INFO]: L3nnart_ issued server command: /gamemode creative
+[21:19:46] [Server thread/INFO]: [L3nnart_: Set own game mode to Creative Mode]
+[21:20:07] [Server thread/INFO]: BinHaltCuube issued server command: /tp L3nnart_
+[21:20:07] [Server thread/INFO]: [BinHaltCuube: Teleported BinHaltCuube to L3nnart_]
+[21:21:33] [Server thread/INFO]: L3nnart_ issued server command: /gamemode
+[21:21:38] [Server thread/INFO]: L3nnart_ issued server command: /gamemode survival
+[21:21:38] [Server thread/INFO]: [L3nnart_: Set own game mode to Survival Mode]
+[21:21:42] [Server thread/INFO]: L3nnart_ fell from a high place
+[21:21:53] [Server thread/INFO]: L3nnart_ issued server command: /tp L3nnart_ Cuube
+[21:21:58] [Server thread/INFO]: L3nnart_ issued server command: /tp L3nnart_ Cuube
+[21:22:10] [Server thread/INFO]: BinHaltCuube issued server command: /tp L3nnart_ BinHaltCuube
+[21:22:10] [Server thread/INFO]: [BinHaltCuube: Teleported L3nnart_ to BinHaltCuube]
+[21:22:10] [Server thread/WARN]: L3nnart_ moved too quickly! -149.8187447096398,14.831073636031377,-563.8699776436225
+[21:22:20] [Server thread/INFO]: BinHaltCuube has made the advancement [Sticky Situation]
+[21:22:50] [Server thread/INFO]: L3nnart_ fell from a high place
+[21:23:10] [Server thread/INFO]: BinHaltCuube issued server command: /tp L3nnart_ BinHaltCuube
+[21:23:10] [Server thread/INFO]: [BinHaltCuube: Teleported L3nnart_ to BinHaltCuube]
+[21:23:10] [Server thread/WARN]: L3nnart_ moved too quickly! -131.3757717355574,9.751783903347132,-564.7263295169059
+[21:23:19] [Server thread/INFO]: L3nnart_ issued server command: /kill
+[21:23:19] [Server thread/INFO]: L3nnart_ fell out of the world
+[21:23:19] [Server thread/INFO]: [L3nnart_: Killed L3nnart_]
+[21:23:28] [Server thread/INFO]: L3nnart_ issued server command: /tp @p BinHaltCuube
+[21:23:28] [Server thread/INFO]: [L3nnart_: Teleported L3nnart_ to BinHaltCuube]
+[21:23:28] [Server thread/WARN]: L3nnart_ moved too quickly! -157.40367806880374,7.419999986886978,-566.6895893734791
+[21:23:41] [Server thread/INFO]: L3nnart_ has made the advancement [Sticky Situation]
+[21:23:48] [Server thread/INFO]: L3nnart_ issued server command: /gamemode creative
+[21:23:48] [Server thread/INFO]: [L3nnart_: Set own game mode to Creative Mode]
+[21:24:04] [Server thread/INFO]: L3nnart_ has made the advancement [Hot Stuff]
+[21:24:39] [Server thread/INFO]: L3nnart_ issued server command: /gamemode survival
+[21:24:39] [Server thread/INFO]: [L3nnart_: Set own game mode to Survival Mode]
+[21:25:16] [Server thread/INFO]: L3nnart_ issued server command: /heal
+[21:26:20] [Server thread/INFO]: BinHaltCuube has made the advancement [Stone Age]
+[21:26:57] [Server thread/INFO]: L3nnart_ burned to death
+[21:27:02] [Server thread/INFO]: BinHaltCuube has made the advancement [Hot Stuff]
+[21:27:04] [Server thread/INFO]: L3nnart_ issued server command: /tp @p BinHaltCuube
+[21:27:04] [Server thread/INFO]: [L3nnart_: Teleported L3nnart_ to BinHaltCuube]
+[21:27:04] [Server thread/WARN]: L3nnart_ moved too quickly! -221.34255174910209,7.0,-529.5302886737765
+[21:27:21] [Server thread/INFO]: L3nnart_ issued server command: /tp @p BinHaltCuube
+[21:27:21] [Server thread/INFO]: [L3nnart_: Teleported L3nnart_ to BinHaltCuube]
+[21:27:52] [Server thread/INFO]: L3nnart_ issued server command: /gamemode survival
+[21:27:56] [Server thread/INFO]: L3nnart_ issued server command: /gamemode creative
+[21:27:56] [Server thread/INFO]: [L3nnart_: Set own game mode to Creative Mode]
+[21:28:11] [Server thread/INFO]: L3nnart_ issued server command: /gamemode survival
+[21:28:11] [Server thread/INFO]: [L3nnart_: Set own game mode to Survival Mode]
+[21:28:16] [Server thread/INFO]: L3nnart_ has made the advancement [Ol' Betsy]
+[21:28:16] [Server thread/INFO]: L3nnart_ has made the advancement [Monster Hunter]
+[21:28:16] [Server thread/INFO]: L3nnart_ has made the advancement [Take Aim]
+[21:28:37] [Server thread/INFO]: L3nnart_ issued server command: /heal
+[21:29:39] [Server thread/INFO]: BinHaltCuube issued server command: /advancement grant BinHaltCuube everything
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [Who is Cutting Onions?]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [Oh Shiny]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [Suit Up]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [Very Very Frightening]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [Free the End]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has completed the challenge [A Furious Cocktail]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [Best Friends Forever]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [Bring Home the Beacon]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [Not Today, Thank You]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [Isn't It Iron Pick]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [Local Brewery]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has reached the goal [The Next Generation]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [Fishy Business]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has completed the challenge [Hot Tourist Destinations]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [This Boat Has Legs]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has completed the challenge [Sniper Duel]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has completed the challenge [Great View From Up Here]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has completed the challenge [How Did We Get Here?]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has completed the challenge [Bullseye]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [Spooky Scary Skeleton]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has completed the challenge [Two by Two]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has completed the challenge [Two Birds, One Arrow]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [We Need to Go Deeper]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [Who's the Pillager Now?]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [Getting an Upgrade]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [Tactical Fishing]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has reached the goal [Zombie Doctor]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [The City at the End of the Game]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [Ice Bucket Challenge]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [Remote Getaway]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [Into Fire]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [War Pigs]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [Take Aim]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [Total Beelocation]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has completed the challenge [Arbalistic]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has reached the goal [The End... Again...]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [Acquire Hardware]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [Not Quite "Nine" Lives]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [Cover Me With Diamonds]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has reached the goal [Sky's the Limit]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has reached the goal [Hired Help]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has completed the challenge [Return to Sender]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [Sweet Dreams]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has reached the goal [You Need a Mint]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has completed the challenge [Monsters Hunted]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [Enchanter]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [Voluntary Exile]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [Eye Spy]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has completed the challenge [Serious Dedication]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has reached the goal [Postmortal]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [Monster Hunter]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has completed the challenge [Adventuring Time]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [A Seedy Place]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [Those Were the Days]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has completed the challenge [Hero of the Village]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [Hidden in the Depths]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has reached the goal [Beaconator]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [Withering Heights]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has completed the challenge [A Balanced Diet]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has completed the challenge [Subspace Bubble]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [Country Lode, Take Me Home]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [Bee Our Guest]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [What a Deal!]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has completed the challenge [Uneasy Alliance]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [Diamonds!]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [A Terrible Fortress]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [A Throwaway Joke]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [Ol' Betsy]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has completed the challenge [Cover Me in Debris]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [The End?]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has made the advancement [The Parrots and the Bats]
+[21:29:39] [Server thread/INFO]: BinHaltCuube has completed the challenge [A Complete Catalogue]
+[21:29:39] [Server thread/INFO]: [BinHaltCuube: Granted 927 advancements to BinHaltCuube]
+[21:29:55] [Server thread/INFO]: BinHaltCuube issued server command: /advancement grant L3nnart_ everything
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [Who is Cutting Onions?]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [Oh Shiny]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [Suit Up]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [Very Very Frightening]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [Free the End]
+[21:29:55] [Server thread/INFO]: L3nnart_ has completed the challenge [A Furious Cocktail]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [Best Friends Forever]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [Bring Home the Beacon]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [Not Today, Thank You]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [Isn't It Iron Pick]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [Local Brewery]
+[21:29:55] [Server thread/INFO]: L3nnart_ has reached the goal [The Next Generation]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [Fishy Business]
+[21:29:55] [Server thread/INFO]: L3nnart_ has completed the challenge [Hot Tourist Destinations]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [This Boat Has Legs]
+[21:29:55] [Server thread/INFO]: L3nnart_ has completed the challenge [Sniper Duel]
+[21:29:55] [Server thread/INFO]: L3nnart_ has completed the challenge [Great View From Up Here]
+[21:29:55] [Server thread/INFO]: L3nnart_ has completed the challenge [How Did We Get Here?]
+[21:29:55] [Server thread/INFO]: L3nnart_ has completed the challenge [Bullseye]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [Spooky Scary Skeleton]
+[21:29:55] [Server thread/INFO]: L3nnart_ has completed the challenge [Two by Two]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [Stone Age]
+[21:29:55] [Server thread/INFO]: L3nnart_ has completed the challenge [Two Birds, One Arrow]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [We Need to Go Deeper]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [Who's the Pillager Now?]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [Getting an Upgrade]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [Tactical Fishing]
+[21:29:55] [Server thread/INFO]: L3nnart_ has reached the goal [Zombie Doctor]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [The City at the End of the Game]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [Ice Bucket Challenge]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [Remote Getaway]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [Into Fire]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [War Pigs]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [Total Beelocation]
+[21:29:55] [Server thread/INFO]: L3nnart_ has completed the challenge [Arbalistic]
+[21:29:55] [Server thread/INFO]: L3nnart_ has reached the goal [The End... Again...]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [Acquire Hardware]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [Not Quite "Nine" Lives]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [Cover Me With Diamonds]
+[21:29:55] [Server thread/INFO]: L3nnart_ has reached the goal [Sky's the Limit]
+[21:29:55] [Server thread/INFO]: L3nnart_ has reached the goal [Hired Help]
+[21:29:55] [Server thread/INFO]: L3nnart_ has completed the challenge [Return to Sender]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [Sweet Dreams]
+[21:29:55] [Server thread/INFO]: L3nnart_ has reached the goal [You Need a Mint]
+[21:29:55] [Server thread/INFO]: L3nnart_ has completed the challenge [Monsters Hunted]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [Enchanter]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [Voluntary Exile]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [Eye Spy]
+[21:29:55] [Server thread/INFO]: L3nnart_ has completed the challenge [Serious Dedication]
+[21:29:55] [Server thread/INFO]: L3nnart_ has reached the goal [Postmortal]
+[21:29:55] [Server thread/INFO]: L3nnart_ has completed the challenge [Adventuring Time]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [A Seedy Place]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [Those Were the Days]
+[21:29:55] [Server thread/INFO]: L3nnart_ has completed the challenge [Hero of the Village]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [Hidden in the Depths]
+[21:29:55] [Server thread/INFO]: L3nnart_ has reached the goal [Beaconator]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [Withering Heights]
+[21:29:55] [Server thread/INFO]: L3nnart_ has completed the challenge [A Balanced Diet]
+[21:29:55] [Server thread/INFO]: L3nnart_ has completed the challenge [Subspace Bubble]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [Country Lode, Take Me Home]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [Bee Our Guest]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [What a Deal!]
+[21:29:55] [Server thread/INFO]: L3nnart_ has completed the challenge [Uneasy Alliance]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [Diamonds!]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [A Terrible Fortress]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [A Throwaway Joke]
+[21:29:55] [Server thread/INFO]: L3nnart_ has completed the challenge [Cover Me in Debris]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [The End?]
+[21:29:55] [Server thread/INFO]: L3nnart_ has made the advancement [The Parrots and the Bats]
+[21:29:55] [Server thread/INFO]: L3nnart_ has completed the challenge [A Complete Catalogue]
+[21:29:55] [Server thread/INFO]: [BinHaltCuube: Granted 927 advancements to L3nnart_]
+[21:30:42] [Server thread/INFO]: L3nnart_ lost connection: Disconnected
+[21:30:42] [Server thread/INFO]: L3nnart_ left the game
+[21:30:43] [User Authenticator #2/INFO]: UUID of player L3nnart_ is f31bfa9e-2757-4805-835f-aa38018336e6
+[21:30:44] [Server thread/INFO]: L3nnart_ joined the game
+[21:30:44] [Server thread/INFO]: L3nnart_[/90.153.97.113:50963] logged in with entity id 5118 at ([world]-455.9926053978565, 70.0, -772.6473195418978)
+[21:33:37] [Server thread/INFO]: L3nnart_ issued server command: /heal
+[21:34:17] [Server thread/INFO]: L3nnart_ issued server command: /heal
+[21:34:28] [Server thread/INFO]: L3nnart_ issued server command: /rl confirm
+[21:34:28] [Server thread/INFO]: L3nnart_: Please note that this command is not supported and may cause issues when using some plugins.
+[21:34:28] [Server thread/INFO]: L3nnart_: If you encounter any issues please use the /stop command to restart your server.
+[21:34:28] [Server thread/INFO]: Debug logging is disabled
+[21:34:28] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:34:28] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:34:28] [Server thread/INFO]: [Plugin-v1] Disabling Plugin-v1 v1.0
+[21:34:28] [Server thread/INFO]: [Plugin-v1] Plugin wurde deaktiviert
+[21:34:28] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[21:34:28] [Server thread/INFO]: Loaded 7 recipes
+[21:34:29] [Server thread/INFO]: BinHaltCuube issued server command: //wand
+[21:34:29] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[21:34:29] [Server thread/INFO]: Loaded 7 recipes
+[21:34:30] [Server thread/INFO]: [FastAsyncWorldEdit] Loading FastAsyncWorldEdit v1.16-655;88764d8
+[21:34:31] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@3885022b]
+[21:34:31] [Server thread/INFO]: [Plugin-v1] Loading Plugin-v1 v1.0
+[21:34:31] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:34:31] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v1.16-655;88764d8
+[21:34:31] [Server thread/INFO]: WEPIF: Updated config file
+[21:34:31] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[21:34:31] [Server thread/WARN]: Server reload detected. This may cause various issues with FastAsyncWorldEdit and dependent plugins.
+[21:34:31] [Server thread/WARN]: For more information, see https://matthewmiller.dev/blog/problem-with-reload/
+[21:34:31] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.FAWE_Spigot_v1_16_R3 as the Bukkit adapter
+[21:34:31] [Server thread/INFO]: Default configuration file written: config-legacy.yml
+[21:34:31] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[21:34:31] [Server thread/WARN]: [com.boydti.fawe.bukkit.util.JavaVersionCheck] ************************************************************
+[21:34:31] [Server thread/WARN]: [com.boydti.fawe.bukkit.util.JavaVersionCheck] * FastAsyncWorldEdit uses Nashorn for the craftscript engine.
+[21:34:31] [Server thread/WARN]: [com.boydti.fawe.bukkit.util.JavaVersionCheck] * Within Java 15, Nashorn has been removed from Java.
+[21:34:31] [Server thread/WARN]: [com.boydti.fawe.bukkit.util.JavaVersionCheck] * Until we add a suitable workaround, you should stick to Java 11
+[21:34:31] [Server thread/WARN]: [com.boydti.fawe.bukkit.util.JavaVersionCheck] * to use all features of FastAsyncWorldEdit.
+[21:34:31] [Server thread/WARN]: [com.boydti.fawe.bukkit.util.JavaVersionCheck] ************************************************************
+[21:34:31] [Server thread/INFO]: [Plugin-v1] Enabling Plugin-v1 v1.0
+[21:34:31] [Server thread/INFO]: [Plugin-v1] Plugin has been enabled
+[21:34:31] [Server thread/INFO]: L3nnart_: Reload complete.
+[21:34:31] [Server thread/INFO]: Timings Reset
+[21:34:32] [Server thread/INFO]: BinHaltCuube issued server command: //wand
+[21:34:37] [Server thread/INFO]: BinHaltCuube issued server command: //stack 50 u
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: java.lang.reflect.InaccessibleObjectException: Unable to make field static final java.lang.invoke.MethodHandles$Lookup java.lang.invoke.MethodHandles$Lookup.IMPL_LOOKUP accessible: module java.base does not "opens java.lang.invoke" to unnamed module @5e96654f
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:357)
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:297)
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at java.base/java.lang.reflect.Field.checkCanSetAccessible(Field.java:177)
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at java.base/java.lang.reflect.Field.setAccessible(Field.java:171)
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at com.boydti.fawe.util.ReflectionUtils.setAccessibleNonFinal(ReflectionUtils.java:38)
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at com.boydti.fawe.bukkit.adapter.mc1_16_5.BukkitAdapter_1_16_5.<clinit>(BukkitAdapter_1_16_5.java:112)
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at com.boydti.fawe.bukkit.adapter.mc1_16_5.BukkitGetBlocks_1_16_5.ensureLoaded(BukkitGetBlocks_1_16_5.java:377)
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at com.boydti.fawe.bukkit.adapter.mc1_16_5.BukkitGetBlocks_1_16_5.getChunk(BukkitGetBlocks_1_16_5.java:835)
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at com.boydti.fawe.bukkit.adapter.mc1_16_5.BukkitGetBlocks_1_16_5.getSections(BukkitGetBlocks_1_16_5.java:821)
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at com.boydti.fawe.bukkit.adapter.mc1_16_5.BukkitGetBlocks_1_16_5.hasSection(BukkitGetBlocks_1_16_5.java:867)
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at com.boydti.fawe.bukkit.adapter.mc1_16_5.BukkitGetBlocks_1_16_5.trim(BukkitGetBlocks_1_16_5.java:880)
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at com.boydti.fawe.beta.implementation.chunk.ChunkHolder$4.getFullBlock(ChunkHolder.java:680)
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at com.boydti.fawe.beta.implementation.chunk.ChunkHolder.getFullBlock(ChunkHolder.java:987)
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at com.boydti.fawe.beta.implementation.IChunkExtent.getFullBlock(IChunkExtent.java:71)
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at com.sk89q.worldedit.extent.InputExtent.getFullBlock(InputExtent.java:67)
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at com.sk89q.worldedit.extent.PassthroughExtent.getFullBlock(PassthroughExtent.java:185)
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at com.sk89q.worldedit.extent.PassthroughExtent.getFullBlock(PassthroughExtent.java:185)
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at com.boydti.fawe.object.function.block.SimpleBlockCopy.apply(SimpleBlockCopy.java:20)
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at com.sk89q.worldedit.function.visitor.RegionVisitor.resume(RegionVisitor.java:67)
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at com.sk89q.worldedit.function.operation.Operations.completeBlindly(Operations.java:76)
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at com.sk89q.worldedit.function.operation.ForwardExtentCopy.resume(ForwardExtentCopy.java:397)
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at com.sk89q.worldedit.function.operation.Operations.completeLegacy(Operations.java:57)
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at com.sk89q.worldedit.EditSession.stackCuboidRegion(EditSession.java:1584)
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at com.sk89q.worldedit.command.RegionCommands.stack(RegionCommands.java:589)
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at com.sk89q.worldedit.command.RegionCommandsRegistration.cmd$_stack(RegionCommandsRegistration.java:894)
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at org.enginehub.piston.CommandManager.execute(CommandManager.java:157)
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at com.sk89q.worldedit.extension.platform.PlatformCommandManager.lambda$handleCommandOnCurrentThread$16(PlatformCommandManager.java:693)
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at com.sk89q.worldedit.extension.platform.PlatformCommandManager.handleCommandTask(PlatformCommandManager.java:709)
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at com.sk89q.worldedit.extension.platform.PlatformCommandManager.handleCommandOnCurrentThread(PlatformCommandManager.java:695)
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at com.sk89q.worldedit.extension.platform.PlatformCommandManager.lambda$null$13(PlatformCommandManager.java:665)
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at com.sk89q.worldedit.extension.platform.AbstractPlayerActor.lambda$runAction$1(AbstractPlayerActor.java:698)
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at com.boydti.fawe.object.task.AsyncNotifyQueue.lambda$run$0(AsyncNotifyQueue.java:27)
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at com.boydti.fawe.object.task.AsyncNotifyQueue.lambda$call$1(AsyncNotifyQueue.java:44)
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask$AdaptedCallable.exec(ForkJoinTask.java:1458)
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:295)
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)
+[21:34:37] [ForkJoinPool-8-worker-19/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+[21:34:45] [Server thread/INFO]: BinHaltCuube issued server command: //undo
+[21:34:47] [Server thread/INFO]: BinHaltCuube issued server command: //redo
+[21:35:26] [Server thread/INFO]: BinHaltCuube issued server command: //stack 100 u
+[21:36:00] [Server thread/INFO]: L3nnart_ fell from a high place
+[21:36:12] [Server thread/INFO]: L3nnart_ issued server command: /tp @p BinHaltCuube
+[21:36:12] [Server thread/INFO]: [L3nnart_: Teleported L3nnart_ to BinHaltCuube]
+[21:36:13] [Server thread/WARN]: L3nnart_ moved too quickly! -231.13115299621285,88.34183350678612,-507.11716945081463
+[21:36:36] [Server thread/INFO]: L3nnart_ issued server command: /gamemode creative
+[21:36:36] [Server thread/INFO]: [L3nnart_: Set own game mode to Creative Mode]
+[21:36:48] [Server thread/INFO]: BinHaltCuube issued server command: /locate monument
+[21:36:50] [Server thread/INFO]: BinHaltCuube issued server command: /tp @s -1344 ~ -1360
+[21:36:50] [Server thread/INFO]: [BinHaltCuube: Teleported BinHaltCuube to -1343.5, 73.68928390334713, -1359.5]
+[21:37:22] [Server thread/INFO]: L3nnart_ issued server command: /tp @p BinHaltCuube
+[21:37:22] [Server thread/INFO]: [L3nnart_: Teleported L3nnart_ to BinHaltCuube]
+[21:37:22] [Server thread/WARN]: L3nnart_ moved too quickly! -943.389934225193,-6.169528347822819,-636.5973372023702
+[21:38:12] [Server thread/INFO]: L3nnart_ issued server command: /gamemode survival
+[21:38:12] [Server thread/INFO]: [L3nnart_: Set own game mode to Survival Mode]
+[21:38:47] [Server thread/INFO]: L3nnart_ issued server command: /tp @p BinHaltCuube
+[21:38:47] [Server thread/INFO]: [L3nnart_: Teleported L3nnart_ to BinHaltCuube]
+[21:38:50] [Server thread/INFO]: L3nnart_ issued server command: /gamemode creative
+[21:38:50] [Server thread/INFO]: [L3nnart_: Set own game mode to Creative Mode]
+[21:41:43] [Server thread/INFO]: BinHaltCuube issued server command: //stack 100
+[21:41:43] [ForkJoinPool-8-worker-9/WARN]: java.lang.NoSuchFieldError: playerViewDistanceNoTickMap
+[21:41:43] [ForkJoinPool-8-worker-9/WARN]: 	at com.boydti.fawe.bukkit.adapter.mc1_16_5.BukkitAdapter_1_16_5.sendChunk(BukkitAdapter_1_16_5.java:223)
+[21:41:43] [ForkJoinPool-8-worker-9/WARN]: 	at com.boydti.fawe.bukkit.adapter.mc1_16_5.BukkitGetBlocks_1_16_5.send(BukkitGetBlocks_1_16_5.java:692)
+[21:41:43] [ForkJoinPool-8-worker-9/WARN]: 	at com.boydti.fawe.bukkit.adapter.NMSAdapter.sendChunk(NMSAdapter.java:193)
+[21:41:43] [ForkJoinPool-8-worker-9/WARN]: 	at com.boydti.fawe.beta.implementation.lighting.NMSRelighter$2.run(NMSRelighter.java:881)
+[21:41:43] [ForkJoinPool-8-worker-9/WARN]: 	at com.boydti.fawe.object.RunnableVal.run(RunnableVal.java:18)
+[21:41:43] [ForkJoinPool-8-worker-9/WARN]: 	at com.boydti.fawe.beta.implementation.lighting.NMSRelighter.sendChunks(NMSRelighter.java:888)
+[21:41:43] [ForkJoinPool-8-worker-9/WARN]: 	at com.boydti.fawe.beta.implementation.lighting.NMSRelighter.fixLightingSafe(NMSRelighter.java:803)
+[21:41:43] [ForkJoinPool-8-worker-9/WARN]: 	at com.boydti.fawe.beta.implementation.lighting.NMSRelighter.removeAndRelight(NMSRelighter.java:110)
+[21:41:43] [ForkJoinPool-8-worker-9/WARN]: 	at com.sk89q.worldedit.EditSession.flushQueue(EditSession.java:1113)
+[21:41:43] [ForkJoinPool-8-worker-9/WARN]: 	at com.sk89q.worldedit.extension.platform.PlatformCommandManager.handleCommandTask(PlatformCommandManager.java:759)
+[21:41:43] [ForkJoinPool-8-worker-9/WARN]: 	at com.sk89q.worldedit.extension.platform.PlatformCommandManager.handleCommandOnCurrentThread(PlatformCommandManager.java:695)
+[21:41:43] [ForkJoinPool-8-worker-9/WARN]: 	at com.sk89q.worldedit.extension.platform.PlatformCommandManager.lambda$null$13(PlatformCommandManager.java:665)
+[21:41:43] [ForkJoinPool-8-worker-9/WARN]: 	at com.sk89q.worldedit.extension.platform.AbstractPlayerActor.lambda$runAction$1(AbstractPlayerActor.java:698)
+[21:41:43] [ForkJoinPool-8-worker-9/WARN]: 	at com.boydti.fawe.object.task.AsyncNotifyQueue.lambda$run$0(AsyncNotifyQueue.java:27)
+[21:41:43] [ForkJoinPool-8-worker-9/WARN]: 	at com.boydti.fawe.object.task.AsyncNotifyQueue.lambda$call$1(AsyncNotifyQueue.java:44)
+[21:41:43] [ForkJoinPool-8-worker-9/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask$AdaptedCallable.exec(ForkJoinTask.java:1458)
+[21:41:43] [ForkJoinPool-8-worker-9/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:295)
+[21:41:43] [ForkJoinPool-8-worker-9/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)
+[21:41:43] [ForkJoinPool-8-worker-9/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)
+[21:41:43] [ForkJoinPool-8-worker-9/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)
+[21:41:43] [ForkJoinPool-8-worker-9/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+[21:41:45] [Server thread/INFO]: BinHaltCuube issued server command: //stack 100
+[21:41:46] [ForkJoinPool-8-worker-1/WARN]: java.lang.NoSuchFieldError: playerViewDistanceNoTickMap
+[21:41:46] [ForkJoinPool-8-worker-1/WARN]: 	at com.boydti.fawe.bukkit.adapter.mc1_16_5.BukkitAdapter_1_16_5.sendChunk(BukkitAdapter_1_16_5.java:223)
+[21:41:46] [ForkJoinPool-8-worker-1/WARN]: 	at com.boydti.fawe.bukkit.adapter.mc1_16_5.BukkitGetBlocks_1_16_5.send(BukkitGetBlocks_1_16_5.java:692)
+[21:41:46] [ForkJoinPool-8-worker-1/WARN]: 	at com.boydti.fawe.bukkit.adapter.NMSAdapter.sendChunk(NMSAdapter.java:193)
+[21:41:46] [ForkJoinPool-8-worker-1/WARN]: 	at com.boydti.fawe.beta.implementation.lighting.NMSRelighter$2.run(NMSRelighter.java:881)
+[21:41:46] [ForkJoinPool-8-worker-1/WARN]: 	at com.boydti.fawe.object.RunnableVal.run(RunnableVal.java:18)
+[21:41:46] [ForkJoinPool-8-worker-1/WARN]: 	at com.boydti.fawe.beta.implementation.lighting.NMSRelighter.sendChunks(NMSRelighter.java:888)
+[21:41:46] [ForkJoinPool-8-worker-1/WARN]: 	at com.boydti.fawe.beta.implementation.lighting.NMSRelighter.fixLightingSafe(NMSRelighter.java:803)
+[21:41:46] [ForkJoinPool-8-worker-1/WARN]: 	at com.boydti.fawe.beta.implementation.lighting.NMSRelighter.removeAndRelight(NMSRelighter.java:110)
+[21:41:46] [ForkJoinPool-8-worker-1/WARN]: 	at com.sk89q.worldedit.EditSession.flushQueue(EditSession.java:1113)
+[21:41:46] [ForkJoinPool-8-worker-1/WARN]: 	at com.sk89q.worldedit.extension.platform.PlatformCommandManager.handleCommandTask(PlatformCommandManager.java:759)
+[21:41:46] [ForkJoinPool-8-worker-1/WARN]: 	at com.sk89q.worldedit.extension.platform.PlatformCommandManager.handleCommandOnCurrentThread(PlatformCommandManager.java:695)
+[21:41:46] [ForkJoinPool-8-worker-1/WARN]: 	at com.sk89q.worldedit.extension.platform.PlatformCommandManager.lambda$null$13(PlatformCommandManager.java:665)
+[21:41:46] [ForkJoinPool-8-worker-1/WARN]: 	at com.sk89q.worldedit.extension.platform.AbstractPlayerActor.lambda$runAction$1(AbstractPlayerActor.java:698)
+[21:41:46] [ForkJoinPool-8-worker-1/WARN]: 	at com.boydti.fawe.object.task.AsyncNotifyQueue.lambda$run$0(AsyncNotifyQueue.java:27)
+[21:41:46] [ForkJoinPool-8-worker-1/WARN]: 	at com.boydti.fawe.object.task.AsyncNotifyQueue.lambda$call$1(AsyncNotifyQueue.java:44)
+[21:41:46] [ForkJoinPool-8-worker-1/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask$AdaptedCallable.exec(ForkJoinTask.java:1458)
+[21:41:46] [ForkJoinPool-8-worker-1/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:295)
+[21:41:46] [ForkJoinPool-8-worker-1/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)
+[21:41:46] [ForkJoinPool-8-worker-1/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)
+[21:41:46] [ForkJoinPool-8-worker-1/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)
+[21:41:46] [ForkJoinPool-8-worker-1/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+[21:41:51] [Server thread/INFO]: BinHaltCuube issued server command: //stack 100
+[21:41:51] [ForkJoinPool-8-worker-9/WARN]: java.lang.NoSuchFieldError: playerViewDistanceNoTickMap
+[21:41:51] [ForkJoinPool-8-worker-9/WARN]: 	at com.boydti.fawe.bukkit.adapter.mc1_16_5.BukkitAdapter_1_16_5.sendChunk(BukkitAdapter_1_16_5.java:223)
+[21:41:51] [ForkJoinPool-8-worker-9/WARN]: 	at com.boydti.fawe.bukkit.adapter.mc1_16_5.BukkitGetBlocks_1_16_5.send(BukkitGetBlocks_1_16_5.java:692)
+[21:41:51] [ForkJoinPool-8-worker-9/WARN]: 	at com.boydti.fawe.bukkit.adapter.NMSAdapter.sendChunk(NMSAdapter.java:193)
+[21:41:51] [ForkJoinPool-8-worker-9/WARN]: 	at com.boydti.fawe.beta.implementation.lighting.NMSRelighter$2.run(NMSRelighter.java:881)
+[21:41:51] [ForkJoinPool-8-worker-9/WARN]: 	at com.boydti.fawe.object.RunnableVal.run(RunnableVal.java:18)
+[21:41:51] [ForkJoinPool-8-worker-9/WARN]: 	at com.boydti.fawe.beta.implementation.lighting.NMSRelighter.sendChunks(NMSRelighter.java:888)
+[21:41:51] [ForkJoinPool-8-worker-9/WARN]: 	at com.boydti.fawe.beta.implementation.lighting.NMSRelighter.fixLightingSafe(NMSRelighter.java:803)
+[21:41:51] [ForkJoinPool-8-worker-9/WARN]: 	at com.boydti.fawe.beta.implementation.lighting.NMSRelighter.removeAndRelight(NMSRelighter.java:110)
+[21:41:51] [ForkJoinPool-8-worker-9/WARN]: 	at com.sk89q.worldedit.EditSession.flushQueue(EditSession.java:1113)
+[21:41:51] [ForkJoinPool-8-worker-9/WARN]: 	at com.sk89q.worldedit.extension.platform.PlatformCommandManager.handleCommandTask(PlatformCommandManager.java:759)
+[21:41:51] [ForkJoinPool-8-worker-9/WARN]: 	at com.sk89q.worldedit.extension.platform.PlatformCommandManager.handleCommandOnCurrentThread(PlatformCommandManager.java:695)
+[21:41:51] [ForkJoinPool-8-worker-9/WARN]: 	at com.sk89q.worldedit.extension.platform.PlatformCommandManager.lambda$null$13(PlatformCommandManager.java:665)
+[21:41:51] [ForkJoinPool-8-worker-9/WARN]: 	at com.sk89q.worldedit.extension.platform.AbstractPlayerActor.lambda$runAction$1(AbstractPlayerActor.java:698)
+[21:41:51] [ForkJoinPool-8-worker-9/WARN]: 	at com.boydti.fawe.object.task.AsyncNotifyQueue.lambda$run$0(AsyncNotifyQueue.java:27)
+[21:41:51] [ForkJoinPool-8-worker-9/WARN]: 	at com.boydti.fawe.object.task.AsyncNotifyQueue.lambda$call$1(AsyncNotifyQueue.java:44)
+[21:41:51] [ForkJoinPool-8-worker-9/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask$AdaptedCallable.exec(ForkJoinTask.java:1458)
+[21:41:51] [ForkJoinPool-8-worker-9/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:295)
+[21:41:51] [ForkJoinPool-8-worker-9/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)
+[21:41:51] [ForkJoinPool-8-worker-9/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)
+[21:41:51] [ForkJoinPool-8-worker-9/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)
+[21:41:51] [ForkJoinPool-8-worker-9/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+[21:43:36] [Server thread/INFO]: BinHaltCuube issued server command: /enchant BinHaltCuube minecraft:depth_strider
+[21:43:48] [Server thread/INFO]: BinHaltCuube issued server command: /enchant BinHaltCuube minecraft:riptide
+[21:43:48] [Server thread/INFO]: [BinHaltCuube: Applied enchantment Riptide I to BinHaltCuube's item]
+[21:44:26] [Server thread/INFO]: BinHaltCuube issued server command: /weather thunder
+[21:44:26] [Server thread/INFO]: [BinHaltCuube: Set the weather to rain & thunder]
+[21:46:20] [Server thread/INFO]: L3nnart_ issued server command: /give @s firework_rocket{Fireworks:{Explosions:[{Type:3,Colors:[I;3887386,12801229]}],Flight:3}}/summon firework_rocket ~ ~ ~ {LifeTime:60,FireworksItem:{id:firework_rocket,Count:1,tag:{Fireworks:{Explosions:[{Type:3,Colors:[I;3887386,12801229]}],Flight:3}
+[21:46:36] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[21:46:38] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[21:46:38] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[21:46:39] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[21:46:55] [Server thread/INFO]: L3nnart_ issued server command: /give @s firework_rocket{Fireworks:{Explosions:[{Type:3,Colors:[I;3887386,12801229]}],Flight:3}}
+[21:46:55] [Server thread/INFO]: [L3nnart_: Gave 1 [Firework Rocket] to L3nnart_]
+[21:48:34] [Server thread/INFO]: L3nnart_ lost connection: Disconnected
+[21:48:34] [Server thread/WARN]: java.lang.reflect.InaccessibleObjectException: Unable to make field java.lang.ThreadLocal$ThreadLocalMap java.lang.Thread.threadLocals accessible: module java.base does not "opens java.lang" to unnamed module @5e96654f
+[21:48:34] [Server thread/WARN]: 	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:357)
+[21:48:34] [Server thread/WARN]: 	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:297)
+[21:48:34] [Server thread/WARN]: 	at java.base/java.lang.reflect.Field.checkCanSetAccessible(Field.java:177)
+[21:48:34] [Server thread/WARN]: 	at java.base/java.lang.reflect.Field.setAccessible(Field.java:171)
+[21:48:34] [Server thread/WARN]: 	at com.boydti.fawe.object.collection.CleanableThreadLocal.iterate(CleanableThreadLocal.java:94)
+[21:48:34] [Server thread/WARN]: 	at com.boydti.fawe.object.collection.CleanableThreadLocal.getAll(CleanableThreadLocal.java:61)
+[21:48:34] [Server thread/WARN]: 	at com.sk89q.worldedit.session.request.Request.getAll(Request.java:55)
+[21:48:34] [Server thread/WARN]: 	at com.sk89q.worldedit.extension.platform.Actor.cancel(Actor.java:235)
+[21:48:34] [Server thread/WARN]: 	at com.sk89q.worldedit.entity.Player.unregister(Player.java:403)
+[21:48:34] [Server thread/WARN]: 	at com.sk89q.worldedit.bukkit.BukkitPlayer.unregister(BukkitPlayer.java:417)
+[21:48:34] [Server thread/WARN]: 	at com.boydti.fawe.bukkit.FaweBukkit.onPlayerQuit(FaweBukkit.java:267)
+[21:48:34] [Server thread/WARN]: 	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor7.execute(Unknown Source)
+[21:48:34] [Server thread/WARN]: 	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69)
+[21:48:34] [Server thread/WARN]: 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80)
+[21:48:34] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[21:48:34] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:607)
+[21:48:34] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.PlayerList.disconnect(PlayerList.java:598)
+[21:48:34] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:1958)
+[21:48:34] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.NetworkManager.handleDisconnection(NetworkManager.java:713)
+[21:48:34] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.ServerConnection.c(ServerConnection.java:183)
+[21:48:34] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.b(MinecraftServer.java:1584)
+[21:48:34] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:430)
+[21:48:34] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1403)
+[21:48:34] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1129)
+[21:48:34] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291)
+[21:48:34] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:831)
+[21:48:34] [Server thread/INFO]: L3nnart_ left the game
+[21:58:31] [Server thread/INFO]: BinHaltCuube issued server command: //stack 15 u
+[21:58:34] [Server thread/INFO]: BinHaltCuube issued server command: //stack 15 u
+[21:58:39] [Server thread/INFO]: BinHaltCuube issued server command: //stack 15
+[21:59:20] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[21:59:22] [Server thread/INFO]: Stopping the server
+[21:59:22] [Server thread/INFO]: Stopping server
+[21:59:22] [Server thread/INFO]: [Plugin-v1] Disabling Plugin-v1 v1.0
+[21:59:22] [Server thread/INFO]: [Plugin-v1] Plugin wurde deaktiviert
+[21:59:22] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v1.16-655;88764d8
+[21:59:22] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[21:59:22] [Server thread/INFO]: Saving players
+[21:59:22] [Server thread/INFO]: BinHaltCuube lost connection: Server closed
+[21:59:22] [Server thread/INFO]: BinHaltCuube left the game
+[21:59:22] [Server thread/INFO]: Saving worlds
+[21:59:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:59:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:59:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
