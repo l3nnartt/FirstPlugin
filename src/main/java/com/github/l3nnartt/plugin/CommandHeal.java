@@ -10,7 +10,9 @@ public class CommandHeal implements CommandExecutor {
 
     @Override
     public boolean onCommand(@NotNull CommandSender cs, @NotNull Command cmd, @NotNull String s, @NotNull String[] args) {
+
         Player p = (Player) cs;
+
         if (args.length == 0) {
             p.setHealth(p.getHealthScale());
             p.setFoodLevel(20);
@@ -26,9 +28,8 @@ public class CommandHeal implements CommandExecutor {
                 p.setHealth(p.getHealth() + health);
                 p.setFoodLevel(20);
             }
+        } return true;
 
-        }
-
-        return true;
     }
+
 }
